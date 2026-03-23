@@ -1,29 +1,21 @@
-README
+# Project File Directory
+This folder contains all files and resources used in the project. Below is a detailed description of the directory structure and file contents:
 
-This folder contains all files used in the project. Below is a description of the contents:
+## 1. 3D Models
+This directory stores all 3D assets (meshes + textures) used in the project:
+- `Band/`: 3D model files for the band component
+- `Farm Building/`: 3D model files for farm building structures
+- `Turntable/`: 3D model files for the turntable component
+- `Wheel/`: 3D model files for the wheel component
 
-1. 3D Models
-Band/
-Farm Building/
-Turntable/
-Wheel/
-These four folders contain the 3D models used in the project, including meshes and textures.
+## 2. Code
+- `script.m`: MATLAB script for generating result figures
+  > **Note**: Uncomment the last two lines of this script to export 8 result images in total.
 
-2. Code
-script.m
-MATLAB script used to generate the result figures.
-The last two lines of the code can be uncommented to output eight result images.
+## 3. Data and Questionnaire
+- `Data.xlsx`: Raw dataset collected during the project research
+- `Questionnaire.pdf`: Questionnaire document used in the study
 
-3. Data and Questionnaire
-Data.xlsx
-The raw dataset collected for this project.
-
-Questionnaire.pdf
-The questionnaire used during the study.
-
-4. Media and Presentation
-Template_Video_10Minutes.pptx
-PowerPoint template for the 10-minute presentation.
-
-Video.mp4
-Video demonstration of the project.
+## 4. Media and Presentation
+- `Template_Video_10Minutes.pptx`: PowerPoint template for 10-minute project presentation
+- `Video.mp4`: Video demonstration of the project functionality/results
