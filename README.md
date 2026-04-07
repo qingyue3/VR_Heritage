@@ -22,5 +22,12 @@ This directory stores all 3D assets (meshes + textures) used in the project:
 - `Questionnaire.pdf`: Questionnaire document used in the study
 
 ## 4. 展示 Media and Presentation
-
+### 预览 Overview:
+![预览 Overview](./Video/Overview.gif)
+### 基础交互 Interaction:
+![Interaction](./Video/Interaction.gif)
+### 其他有意思的交互 Other Interesting Interaction
+- `天气 Weather`
+- `时间 Time`
+![Other](./Video/OtherInteraction.gif)
 
